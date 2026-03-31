@@ -1,7 +1,7 @@
 # Blinkit Retail Performance Dashboard  
 A Power BI analytics project designed to evaluate retail outlet performance, uncover sales trends, and optimize operational efficiency across different outlet types and product categories.
 
-![Blinkit Dashboard Overview](images/blinkit_dashboard.png)
+![Dashboard Overview](BlinkIt%20Img/BlinkIt_Img%20(1).jpg)
 
 
 ## Table of Contents
@@ -94,6 +94,7 @@ Focus areas included:
 - Supermarket Type 1 recorded the highest total sales ($787.55K), with strong consistency and item count.  
   Grocery stores, while generating lower total sales, showed higher item visibility, suggesting better product discovery.  
 
+![Dashboard Overview](BlinkIt%20Img/BlinkIt_Img%20(2).jpg)
 
 ## Business Value  
 
